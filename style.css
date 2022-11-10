@@ -31,7 +31,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    position: sticky;
+    /* position: sticky; */
     top: 0;
     backdrop-filter: 50px;
 }
